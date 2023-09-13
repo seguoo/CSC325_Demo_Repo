@@ -12,6 +12,7 @@ public class CSC325_Demo01 {
     public static void main(String[] args) {
         System.out.println("Omar Segura \n\n\n");
         System.out.println("Omar Segura \n\n\n");
+        System.out.println("Omar Segura \n\n\n");
         
     }
 }
